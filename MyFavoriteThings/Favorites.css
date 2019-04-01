@@ -1,0 +1,28 @@
+/*
+*Wendy Mayo
+*Due Date
+*MyFavoriteThings
+*/
+
+/* The universal selector */
+*{
+}
+/* Body attributes here */
+body {
+     width:85%;
+    margin: auto;
+    background-color: palegoldenrod;
+    font-family:fantasy;
+    font-size: 80%;
+}
+
+/* Flyer picture length and caption side*/
+#Flyers { width:200xpx; height: 150px;} 
+#Flyerfig {float: right;}
+
+/* Different Perspective picture length and caption side */
+ #DF { width:200xpx; height: 200px;}
+#DFfig {float: right;}
+
+/* Optical Illusion picture length and caption side*/ 
+ #OP { width:300xpx; height: 300px; float: left;}
